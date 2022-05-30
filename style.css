@@ -1,0 +1,19 @@
+
+.heading h3{
+    display:inline;
+    
+    }
+    .heading button{
+        float: right;
+        border: 1px solid white;
+    }
+    .heading{
+        width: 100%;
+        text-align: left;
+    }
+    .bigimg{
+        width: 100%;
+    }
+    #pg{
+        font-size: 23px;
+    }
